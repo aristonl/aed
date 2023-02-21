@@ -1,0 +1,17 @@
+
+ +-------------------+
+ | *a*ris's *ed*itor |
+ +-------------------+
+
+		A decently simple text editor built in C++.
+
+		aed is written by Ariston Lorenzo.
+
+		Copyright 2023 Ariston Lorenzo. See COPYRIGHT.
+
+
+WHAT IS aed?
+
+aed is just a text editor made to keep me from getting bored. There are many
+features from within Emacs and Neovim that I had always wanted together so this
+gives me a chance to merge these together into one piece of software.

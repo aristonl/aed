@@ -8,6 +8,7 @@
 #include <unistd.h>
 
 void die(const char *s) {
+	refreshScreen();
 	perror(s);
 	exit(1);
 }
